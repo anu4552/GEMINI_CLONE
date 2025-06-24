@@ -1,0 +1,55 @@
+{
+  "hash": "f5119eb5",
+  "configHash": "d4de821e",
+  "lockfileHash": "0943d4d5",
+  "browserHash": "aec31e66",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "ddee8a18",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "89a56de4",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "60e50385",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "d09cd942",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "4595ca74",
+      "needsInterop": true
+    },
+    "@google/generative-ai": {
+      "src": "../../@google/generative-ai/dist/index.mjs",
+      "file": "@google_generative-ai.js",
+      "fileHash": "e6b19295",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-K666RNDJ": {
+      "file": "chunk-K666RNDJ.js"
+    },
+    "chunk-P52VHFMI": {
+      "file": "chunk-P52VHFMI.js"
+    },
+    "chunk-BUSYA2B4": {
+      "file": "chunk-BUSYA2B4.js"
+    }
+  }
+}

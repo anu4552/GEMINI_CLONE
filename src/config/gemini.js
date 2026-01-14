@@ -8,7 +8,7 @@ import{
 //   const fs = require("node:fs");
 //   const mime = require("mime-types");
   
-  const apiKey = "AIzaSyAno0sIFfNWJhoVU17lCWe4oWlu_NcWFQs"     //process.env.GEMINI_API_KEY;
+  const apiKey = ""     //process.env.GEMINI_API_KEY;
   const genAI = new GoogleGenerativeAI(apiKey);
   
   const model = genAI.getGenerativeModel({
@@ -54,4 +54,5 @@ import{
     return response.text();
   }
   
+
   export default run;
